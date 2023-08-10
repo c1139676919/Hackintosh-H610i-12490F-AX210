@@ -1,8 +1,3 @@
-# Hackintosh-H610-12490F-AX210
-
-安装的版本是13.2版本，因为13.4版本蓝牙关闭后要重新kill掉才行，很烦人。
-显卡是rx560xt，但是macOS识别出来是470.
-
 # Hackintosh MAXSUN(铭瑄) H610-ITX i5 12490F RX560XT
 适用于 铭瑄 MS-H610-ITX + 12490F + RX560 的 OpenCore 0.9.2 黑苹果引导文件，机型 MacPro7,1  
 OpenCore 0.9.2 for MAXSUN MS-H610-ITX + i5 12490F + RX560  
